@@ -18,11 +18,12 @@ Corregir su estrategia antes de fin de mes
 
 🧠 Lógica del sistema
 Servicios contemplados
+
 📱 Portabilidad
 ➕ Línea Nueva
 🌐 Fibra Óptica (BAF)
 
-Reglas principales
+## Reglas principales
 Control de mix de portabilidad (máx. 25% planes 4GB)
 Cálculo de ventas faltantes
 Promedio de ventas por día hábil
@@ -31,16 +32,20 @@ Semáforo de rendimiento:
 🟡 Amarillo
 🔴 Rojo
 
-Evaluación automática de comisiones
+## Evaluación automática de comisiones
 🏆 Esquema de comisiones evaluado
 Comisión
 Portabilidad
 Línea Nueva
 BAF
+
 60% + sábados libres
 Portabilidad 17
+
 Lineas nuevas 2
+
 Baf 3
+
 100% + sábados libres
 
 Portabilidad 28
