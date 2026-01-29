@@ -61,6 +61,6 @@ Si el mix de 4GB supera el 25%, no comisiona portabilidad.
 ## 🛠️ Tecnologías utilizadas
 Jupyter Notebook
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 Matias Alejandro Taborda
 Proyecto desarrollado como parte de portfolio en Python orientado a análisis comercial y control de gestión.
