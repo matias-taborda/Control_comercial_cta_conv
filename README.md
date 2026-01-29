@@ -42,26 +42,20 @@ Portabilidad 17
 Lineas nuevas 2
 Baf 3
 100% + sábados libres
+
 Portabilidad 28
+
 Lineas nuevas 2
+
 Baf 5
 
 📌 Condición excluyente:
 Si el mix de 4GB supera el 25%, no comisiona portabilidad.
 
 🛠️ Tecnologías utilizadas
+
 Jupyter Notebook
-
-📁 Estructura del proyecto
-Copiar código
-
-control_comercial_cta_convergente/
-│
-├── control_asesor_conv.ipynb
-└── README.md
 
 #👨‍💻 Autor
 Matías Alejandro Taborda
 Proyecto desarrollado como parte de portfolio en Python orientado a análisis comercial y control de gestión.
-    ├── paso5_datos.png
-    └── paso6_resultado.png
