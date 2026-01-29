@@ -62,6 +62,5 @@ Si el mix de 4GB supera el 25%, no comisiona portabilidad.
 Jupyter Notebook
 
 ##👨‍💻 Autor
-
-Matías Alejandro Taborda
+Matias Alejandro Taborda
 Proyecto desarrollado como parte de portfolio en Python orientado a análisis comercial y control de gestión.
