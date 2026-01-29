@@ -63,4 +63,5 @@ Jupyter Notebook
 
 ## 👨‍💻 Autor
 Matias Alejandro Taborda
+
 Proyecto desarrollado como parte de portfolio en Python orientado a análisis comercial y control de gestión.
