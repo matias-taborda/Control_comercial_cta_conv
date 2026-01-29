@@ -7,7 +7,7 @@ Evaluar desempeño diario
 Aplicar reglas de mix comercial
 Determinar cumplimiento de comisiones
 
-🎯 Objetivo del proyecto
+## 🎯 Objetivo del proyecto
 Brindar una herramienta simple y clara para que cada asesor pueda:
 Cargar sus ventas manualmente
 Ver su estado en tiempo real
