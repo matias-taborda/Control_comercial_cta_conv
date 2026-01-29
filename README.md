@@ -1,4 +1,4 @@
-# 📊 Control Comercial – Cuenta Convergente
+📊 Control Comercial – Cuenta Convergente
 Sistema en Python para el seguimiento de objetivos comerciales de asesores, orientado a cuentas convergentes (Portabilidad, Línea Nueva y Fibra Óptica / BAF).
 El programa permite:
 Registrar ventas por asesor
@@ -7,22 +7,22 @@ Evaluar desempeño diario
 Aplicar reglas de mix comercial
 Determinar cumplimiento de comisiones
 
-#🎯 Objetivo del proyecto
+🎯 Objetivo del proyecto
 Brindar una herramienta simple y clara para que cada asesor pueda:
 Cargar sus ventas manualmente
 Ver su estado en tiempo real
 Saber si está en condiciones de comisionar
 Corregir su estrategia antes de fin de mes
 
-#👉 Los objetivos se ingresan manualmente, ya que pueden variar mes a mes.
+👉 Los objetivos se ingresan manualmente, ya que pueden variar mes a mes.
 
-#🧠 Lógica del sistema
+🧠 Lógica del sistema
 Servicios contemplados
 📱 Portabilidad
 ➕ Línea Nueva
 🌐 Fibra Óptica (BAF)
 
-#Reglas principales
+Reglas principales
 Control de mix de portabilidad (máx. 25% planes 4GB)
 Cálculo de ventas faltantes
 Promedio de ventas por día hábil
@@ -31,7 +31,7 @@ Semáforo de rendimiento:
 🟡 Amarillo
 🔴 Rojo
 
-#Evaluación automática de comisiones
+Evaluación automática de comisiones
 🏆 Esquema de comisiones evaluado
 Comisión
 Portabilidad
@@ -49,10 +49,10 @@ Baf 5
 📌 Condición excluyente:
 Si el mix de 4GB supera el 25%, no comisiona portabilidad.
 
-#🛠️ Tecnologías utilizadas
+🛠️ Tecnologías utilizadas
 Jupyter Notebook
 
-#📁 Estructura del proyecto
+📁 Estructura del proyecto
 Copiar código
 
 control_comercial_cta_convergente/
