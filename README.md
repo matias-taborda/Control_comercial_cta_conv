@@ -40,6 +40,7 @@ Línea Nueva
 BAF
 
 60% + sábados libres
+
 Portabilidad 17
 
 Lineas nuevas 2
@@ -57,10 +58,9 @@ Baf 5
 📌 Condición excluyente:
 Si el mix de 4GB supera el 25%, no comisiona portabilidad.
 
-🛠️ Tecnologías utilizadas
-
+## 🛠️ Tecnologías utilizadas
 Jupyter Notebook
 
-#👨‍💻 Autor
+##👨‍💻 Autor
 Matías Alejandro Taborda
 Proyecto desarrollado como parte de portfolio en Python orientado a análisis comercial y control de gestión.
