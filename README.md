@@ -1,4 +1,4 @@
-📊 Control Comercial – Cuenta Convergente
+# 📊 Control Comercial – Cuenta Convergente
 Sistema en Python para el seguimiento de objetivos comerciales de asesores, orientado a cuentas convergentes (Portabilidad, Línea Nueva y Fibra Óptica / BAF).
 El programa permite:
 Registrar ventas por asesor
